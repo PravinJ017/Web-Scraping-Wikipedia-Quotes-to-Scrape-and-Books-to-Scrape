@@ -1,0 +1,10 @@
+Three website links from where we can scrape data:
+
+1. Wikipedia: https://www.wikipedia.org/
+   - Wikipedia is a free online encyclopedia with articles covering a wide range of topics. It provides valuable information on various subjects, making it a useful source for web scraping.
+
+2. Quotes to Scrape: http://quotes.toscrape.com/
+   - Quotes to Scrape is a website specifically designed for practicing web scraping. It contains a collection of quotes from various authors, along with their tags.
+
+3. Books to Scrape: http://books.toscrape.com/
+   - Books to Scrape is another website designed for practicing web scraping. It contains a collection of books, including their titles, prices, ratings, and availability.
